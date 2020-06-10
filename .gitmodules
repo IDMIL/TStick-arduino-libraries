@@ -1,0 +1,27 @@
+[submodule "WiFi32Manager"]
+	path = WiFi32Manager
+	url = https://github.com/edumeneses/WiFi32Manager.git
+[submodule "Adafruit_LSM9DS1"]
+	path = Adafruit_LSM9DS1
+	url = https://github.com/adafruit/Adafruit_LSM9DS1.git
+[submodule "OSC"]
+	path = OSC
+	url = https://github.com/CNMAT/OSC
+[submodule "MIMU"]
+	path = MIMU
+	url = https://github.com/DocSunset/MIMU
+[submodule "Eigen"]
+	path = Eigen
+	url = https://github.com/mathiasbredholt/Eigen
+[submodule "Adafruit_LIS3MDL"]
+	path = Adafruit_LIS3MDL
+	url = https://github.com/adafruit/Adafruit_LIS3MDL
+[submodule "Adafruit_Sensor"]
+	path = Adafruit_Sensor
+	url = https://github.com/adafruit/Adafruit_Sensor.git
+[submodule "Adafruit_BusIO"]
+	path = Adafruit_BusIO
+	url = https://github.com/adafruit/Adafruit_BusIO.git
+[submodule "SparkFun_LSM9DS1_Arduino_Library"]
+	path = SparkFun_LSM9DS1_Arduino_Library
+	url = https://github.com/sparkfun/SparkFun_LSM9DS1_Arduino_Library.git
