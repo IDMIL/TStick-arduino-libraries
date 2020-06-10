@@ -25,3 +25,6 @@
 [submodule "SparkFun_LSM9DS1_Arduino_Library"]
 	path = SparkFun_LSM9DS1_Arduino_Library
 	url = https://github.com/sparkfun/SparkFun_LSM9DS1_Arduino_Library.git
+[submodule "ArduinoJson"]
+	path = ArduinoJson
+	url = https://github.com/bblanchon/ArduinoJson.git
